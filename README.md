@@ -1,6 +1,4 @@
-This project is heavily inspired by [https://github.com/honestica/ruby-jobs](https://github.com/honestica/ruby-jobs) so check it out to see the original version.
-
-## Guidelines
+# Guidelines
 
 - clone this repo (do **not** fork it)
 - solve the levels in ascending order (at least until level 3)
@@ -13,3 +11,7 @@ We are interested in seeing code that is:
 - clean
 - extensible
 - robust (don't overlook edge cases, use exceptions where needed, ...)
+
+#### References
+
+* This project is heavily inspired by [https://github.com/honestica/ruby-jobs](https://github.com/honestica/ruby-jobs) so check it out to see the original version.
