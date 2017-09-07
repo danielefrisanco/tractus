@@ -1,0 +1,15 @@
+{
+  "developers": [
+    { "id": 1, "name": "Mi",   "birthday": "1963-02-17" },
+    { "id": 2, "name": "Ti",   "birthday": "1973-04-16" },
+    { "id": 3, "name": "Tony", "birthday": "1983-05-17" }
+  ],
+  "projects": [
+    { "id": 1, "since": "2017-01-01", "until": "2017-12-31", "effort_days": 250 },
+    { "id": 2, "since": "2017-03-17", "until": "2017-05-31", "effort_days": 150 },
+    { "id": 3, "since": "2017-05-17", "until": "2017-05-31", "effort_days": 10 }
+  ],
+  "local_holidays": [
+    { "day": "2017-06-13", "name": "Santo Patrono di Padova" }
+  ]
+}
