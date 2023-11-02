@@ -1,7 +1,85 @@
 {
   "availabilities": [
-    { "period_id": 1, "total_days": 365, "workdays": 250, "weekend_days": 105, "holidays": 11, "feasibility": true  },
-    { "period_id": 1, "total_days": 76,  "workdays": 51,  "weekend_days": 22,  "holidays": 3,  "feasibility": true  },
-    { "period_id": 1, "total_days": 15,  "workdays": 11,  "weekend_days": 4,   "holidays": 0,  "feasibility": false }
+    {
+      "developer_id": 1,
+      "project_id": 1,
+      "total_days": 365,
+      "workdays": 248,
+      "weekend_days": 105,
+      "holidays": 12,
+      "feasibility": false
+    },
+    {
+      "developer_id": 2,
+      "project_id": 1,
+      "total_days": 365,
+      "workdays": 249,
+      "weekend_days": 105,
+      "holidays": 11,
+      "feasibility": false
+    },
+    {
+      "developer_id": 3,
+      "project_id": 1,
+      "total_days": 365,
+      "workdays": 248,
+      "weekend_days": 105,
+      "holidays": 12,
+      "feasibility": false
+    },
+    {
+      "developer_id": 1,
+      "project_id": 2,
+      "total_days": 76,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 3,
+      "feasibility": false
+    },
+    {
+      "developer_id": 2,
+      "project_id": 2,
+      "total_days": 76,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 3,
+      "feasibility": false
+    },
+    {
+      "developer_id": 3,
+      "project_id": 2,
+      "total_days": 76,
+      "workdays": 50,
+      "weekend_days": 22,
+      "holidays": 4,
+      "feasibility": false
+    },
+    {
+      "developer_id": 1,
+      "project_id": 3,
+      "total_days": 15,
+      "workdays": 11,
+      "weekend_days": 4,
+      "holidays": 0,
+      "feasibility": false
+    },
+    {
+      "developer_id": 2,
+      "project_id": 3,
+      "total_days": 15,
+      "workdays": 11,
+      "weekend_days": 4,
+      "holidays": 0,
+      "feasibility": false
+    },
+    {
+      "developer_id": 3,
+      "project_id": 3,
+      "total_days": 15,
+      "workdays": 10,
+      "weekend_days": 4,
+      "holidays": 1,
+      "feasibility": false
+    }
   ]
 }

@@ -1,0 +1,436 @@
+{
+  "availabilities": [
+    {
+      "developer_id": 1,
+      "period_id": 121,
+      "total_days": 7,
+      "workdays": 4,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 121,
+      "total_days": 7,
+      "workdays": 4,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 121,
+      "total_days": 7,
+      "workdays": 4,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 131,
+      "total_days": 8,
+      "workdays": 4,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 131,
+      "total_days": 8,
+      "workdays": 4,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 131,
+      "total_days": 8,
+      "workdays": 4,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 141,
+      "total_days": 9,
+      "workdays": 4,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 141,
+      "total_days": 9,
+      "workdays": 4,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 141,
+      "total_days": 9,
+      "workdays": 4,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 151,
+      "total_days": 10,
+      "workdays": 5,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 151,
+      "total_days": 10,
+      "workdays": 5,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 151,
+      "total_days": 10,
+      "workdays": 5,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 161,
+      "total_days": 11,
+      "workdays": 6,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 161,
+      "total_days": 11,
+      "workdays": 6,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 161,
+      "total_days": 11,
+      "workdays": 6,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 12,
+      "total_days": 6,
+      "workdays": 4,
+      "weekend_days": 1,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 12,
+      "total_days": 6,
+      "workdays": 4,
+      "weekend_days": 1,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 12,
+      "total_days": 6,
+      "workdays": 4,
+      "weekend_days": 1,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 13,
+      "total_days": 7,
+      "workdays": 4,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 13,
+      "total_days": 7,
+      "workdays": 4,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 13,
+      "total_days": 7,
+      "workdays": 4,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 14,
+      "total_days": 8,
+      "workdays": 4,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 14,
+      "total_days": 8,
+      "workdays": 4,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 14,
+      "total_days": 8,
+      "workdays": 4,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 15,
+      "total_days": 9,
+      "workdays": 5,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 15,
+      "total_days": 9,
+      "workdays": 5,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 15,
+      "total_days": 9,
+      "workdays": 5,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 16,
+      "total_days": 10,
+      "workdays": 6,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 16,
+      "total_days": 10,
+      "workdays": 6,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 3,
+      "period_id": 16,
+      "total_days": 10,
+      "workdays": 6,
+      "weekend_days": 3,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 1,
+      "total_days": 365,
+      "workdays": 248,
+      "weekend_days": 105,
+      "holidays": 12
+    },
+    {
+      "developer_id": 2,
+      "period_id": 1,
+      "total_days": 365,
+      "workdays": 249,
+      "weekend_days": 105,
+      "holidays": 11
+    },
+    {
+      "developer_id": 3,
+      "period_id": 1,
+      "total_days": 365,
+      "workdays": 248,
+      "weekend_days": 105,
+      "holidays": 12
+    },
+    {
+      "developer_id": 1,
+      "period_id": 2,
+      "total_days": 76,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 3
+    },
+    {
+      "developer_id": 2,
+      "period_id": 2,
+      "total_days": 76,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 3
+    },
+    {
+      "developer_id": 3,
+      "period_id": 2,
+      "total_days": 76,
+      "workdays": 50,
+      "weekend_days": 22,
+      "holidays": 4
+    },
+    {
+      "developer_id": 1,
+      "period_id": 7,
+      "total_days": 8,
+      "workdays": 6,
+      "weekend_days": 2,
+      "holidays": 0
+    },
+    {
+      "developer_id": 2,
+      "period_id": 7,
+      "total_days": 8,
+      "workdays": 6,
+      "weekend_days": 2,
+      "holidays": 0
+    },
+    {
+      "developer_id": 3,
+      "period_id": 7,
+      "total_days": 8,
+      "workdays": 6,
+      "weekend_days": 2,
+      "holidays": 0
+    },
+    {
+      "developer_id": 1,
+      "period_id": 3,
+      "total_days": 15,
+      "workdays": 11,
+      "weekend_days": 4,
+      "holidays": 0
+    },
+    {
+      "developer_id": 2,
+      "period_id": 3,
+      "total_days": 15,
+      "workdays": 11,
+      "weekend_days": 4,
+      "holidays": 0
+    },
+    {
+      "developer_id": 3,
+      "period_id": 3,
+      "total_days": 15,
+      "workdays": 10,
+      "weekend_days": 4,
+      "holidays": 1
+    },
+    {
+      "developer_id": 1,
+      "period_id": 4,
+      "total_days": 365,
+      "workdays": 253,
+      "weekend_days": 104,
+      "holidays": 8
+    },
+    {
+      "developer_id": 2,
+      "period_id": 4,
+      "total_days": 365,
+      "workdays": 252,
+      "weekend_days": 104,
+      "holidays": 9
+    },
+    {
+      "developer_id": 3,
+      "period_id": 4,
+      "total_days": 365,
+      "workdays": 252,
+      "weekend_days": 104,
+      "holidays": 9
+    },
+    {
+      "developer_id": 1,
+      "period_id": 6,
+      "total_days": 365,
+      "workdays": 253,
+      "weekend_days": 104,
+      "holidays": 8
+    },
+    {
+      "developer_id": 2,
+      "period_id": 6,
+      "total_days": 365,
+      "workdays": 252,
+      "weekend_days": 104,
+      "holidays": 9
+    },
+    {
+      "developer_id": 3,
+      "period_id": 6,
+      "total_days": 365,
+      "workdays": 252,
+      "weekend_days": 104,
+      "holidays": 9
+    },
+    {
+      "developer_id": 1,
+      "period_id": 5,
+      "total_days": 77,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 4
+    },
+    {
+      "developer_id": 2,
+      "period_id": 5,
+      "total_days": 77,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 4
+    },
+    {
+      "developer_id": 3,
+      "period_id": 5,
+      "total_days": 77,
+      "workdays": 51,
+      "weekend_days": 22,
+      "holidays": 4
+    },
+    {
+      "developer_id": 1,
+      "period_id": 5,
+      "total_days": 8,
+      "workdays": 5,
+      "weekend_days": 2,
+      "holidays": 1
+    },
+    {
+      "developer_id": 2,
+      "period_id": 5,
+      "total_days": 8,
+      "workdays": 6,
+      "weekend_days": 2,
+      "holidays": 0
+    },
+    {
+      "developer_id": 3,
+      "period_id": 5,
+      "total_days": 8,
+      "workdays": 6,
+      "weekend_days": 2,
+      "holidays": 0
+    }
+  ]
+}
