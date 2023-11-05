@@ -1,3 +1,4 @@
+# ruby main.rb  --input 'data.json' -o 'output.json' -t
 require "json"
 require 'date'
 require 'holidays'
